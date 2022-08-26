@@ -2,7 +2,7 @@
 
 
 ## 📜 Description 📜
-Animes is a page maked with HTML and Boostrap.
+Animes is page maked in Codigo Tecsup Bootcamp Fullstack Developer 👨‍💻
 
 ## 👨‍💻 Technologies Used 👨‍💻
 
